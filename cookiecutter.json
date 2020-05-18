@@ -1,0 +1,10 @@
+{
+  "project_name": "gatsby-app",
+  "project_slug": "{{ cookiecutter.project_name | lower | replace(' ', '-') }}",
+  "project_description": "gatsby app",
+  "license": ["MIT"],
+  "install_dependencies": ["yes", "no"],
+  "github": {
+    "user": "test-user"
+  }
+}
