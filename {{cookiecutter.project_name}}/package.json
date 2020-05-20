@@ -23,9 +23,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/{{ cookiecutter.github.user }}/{{ cookiecutter.project_slug }}"
+    "url": "https://github.com/{{ cookiecutter.github_user }}/{{ cookiecutter.project_slug }}"
   },
   "bugs": {
-    "url": "https://github.com/{{ cookiecutter.github.user }}/{{ cookiecutter.project_slug }}/issues"
+    "url": "https://github.com/{{ cookiecutter.github_user }}/{{ cookiecutter.project_slug }}/issues"
   }
 }
